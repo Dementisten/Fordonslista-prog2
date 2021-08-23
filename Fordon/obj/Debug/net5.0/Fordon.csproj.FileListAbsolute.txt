@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\Fordon.exe
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\Fordon.deps.json
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\Fordon.runtimeconfig.json
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\Fordon.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\Fordon.dll
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\ref\Fordon.dll
+C:\Users\Admin\Desktop\Fordon\bin\Debug\net5.0\Fordon.pdb
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.dll
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\ref\Fordon.dll
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.pdb
+C:\Users\Admin\Desktop\Fordon\obj\Debug\net5.0\Fordon.genruntimeconfig.cache
