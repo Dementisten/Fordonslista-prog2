@@ -1,5 +1,0 @@
-class Fordon{
-
-    private string 
-
-}
