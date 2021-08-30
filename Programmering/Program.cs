@@ -13,6 +13,7 @@ namespace Programmering
 
             while(meny != 4)
             {
+                Console.WriteLine("\n\n\n\n\n\n");
                 Console.WriteLine("1. Lägg till nytt fordon.");
                 Console.WriteLine("2. Ta bort fordon");
                 Console.WriteLine("3. Lista upp alla fordon.");
@@ -39,12 +40,13 @@ namespace Programmering
 
                 if (meny == 3)
                 {
-                    int nummer = 1;
+                    Console.WriteLine("\n\n\n\n\n\n");
+                    int id = 1;
                     foreach (Fordon a in bilar)
                     {
                         Console.WriteLine("===================");
-                        Console.WriteLine("Nummer: " + nummer + "\n" + a);
-                        nummer++;
+                        Console.WriteLine("ID: " + id + "\n" + a);
+                        id++;
                     }
                     Console.WriteLine("===================");
                 }

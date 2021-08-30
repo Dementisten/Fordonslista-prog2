@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programmering\\Programmering.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\Fordonslista-prog2-main\\Fordonslista-prog2-main\\Programmering\\Programmering.csproj",
       "projectName": "Programmering",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programmering\\Programmering.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\Fordonslista-prog2-main\\Fordonslista-prog2-main\\Programmering\\Programmering.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Programmering\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\Fordonslista-prog2-main\\Fordonslista-prog2-main\\Programmering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
